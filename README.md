@@ -10,8 +10,10 @@ Docker Compose
 MongoDB  
 Redis  
 
-## Run Project
-
+## Run Project 
+## IF you are using window machine then please install docker desktop.
+docker compose up --build
+## If you are using linux then install the docker container along with compose package.
 docker compose up --build
 
 ## Application URL
